@@ -1,0 +1,4 @@
+/* add or update the following in your assets/style.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
