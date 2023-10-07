@@ -1,4 +1,4 @@
-# Vue 3 + PWA + TailwindCSS TypeScript + Vite
+# Vue 3 + PWA + TailwindCSS + TypeScript + Vite
 
 ```bash
 # Add required dependencies
