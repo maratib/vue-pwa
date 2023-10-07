@@ -2,7 +2,7 @@
 
 ```bash
 # Add required dependencies
-yarn add -D vite-plugin-pwa
+yarn add -D vite-plugin-pwa workbox-window
 ```
 ```javascript
 // # Update vite.config.ts
